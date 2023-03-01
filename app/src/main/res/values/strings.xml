@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TLenguaje1</string>
+    <string name="btnMostrar">MOSTRAR</string>
+    <string name="btnSumar">SUMA</string>
+    <string name="btnRestar">RESTA</string>
+    <string name="btnMultiplicar">MULTIPLICACION</string>
+    <string name="btnDividir">DIVISION</string>
+</resources>
